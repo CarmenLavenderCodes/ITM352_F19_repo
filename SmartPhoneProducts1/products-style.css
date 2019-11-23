@@ -1,0 +1,20 @@
+/* General */  
+display: flex;
+flex-flow: row wrap;
+justify-content: space-around;
+
+/* Typography */  
+
+/* block styling */ 
+
+body {width: 800px; margin: 0 auto
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-around;}
+h1   {color: blue;}
+p    {color: red;}
+ 
+
+/* Form styling */  
+
+/* Styling the products display */ 

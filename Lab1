@@ -1,2 +1,0 @@
-var msg="helloworld";
-console.log(msg);
